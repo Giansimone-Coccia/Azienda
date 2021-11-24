@@ -1,11 +1,13 @@
 package AziendaIO;
 
+//Class' Azienda definition
 public class Azienda {
 	private String name;
 	private String type;
 	private String address;
 	private String employees;
 	
+	//Constructor
 	public Azienda(String name, String type, String address, String employees) {
 		this.name = name;
 		this.type = type;
@@ -13,6 +15,7 @@ public class Azienda {
 		this.employees = employees;
 	}
 	
+	//Get and set methods
 	public void setName(String nome) {
 		this.name = nome;
 	}

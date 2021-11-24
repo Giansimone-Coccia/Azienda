@@ -6,6 +6,7 @@ import java.io.*;
 public class AziendaMain {
 
 	public static void main(String[] args) {
+		//Vectors' creation
 		Vector<Azienda> aziende = new Vector<Azienda>();
 		Vector<String> nomi = new Vector<String>();
 		Vector<String> tipo = new Vector<String>();
