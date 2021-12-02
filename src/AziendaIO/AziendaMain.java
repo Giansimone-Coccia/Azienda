@@ -2,7 +2,11 @@ package AziendaIO;
 import java.util.Vector;
 import java.util.Scanner;
 import java.io.*;
-
+/**
+ * Main class
+ * @author gians_ji5genm
+ *
+ */
 public class AziendaMain {
 
 	public static void main(String[] args) {
